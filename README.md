@@ -1,1 +1,5 @@
 # Flap
+
+```
+cargo run
+```
